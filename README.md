@@ -4,5 +4,5 @@ Pytorch implementation for Collaborative Learning of Scattering and Deep Feature
 The code will be released upon acceptance.
 
 <p align="center">
-    <img src=./noise_sar.png width="800">
+    <img src=./noise_sar.pdf width="800">
 </p>
