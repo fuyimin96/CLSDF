@@ -1,5 +1,5 @@
 # CLSDF
-Pytorch implementation for Collaborative Learning of Scattering and Deep Features for SAR Target Recognition with Noisy Labels. (During the 4th round of review at IEEE TSMC...)
+Pytorch implementation for Collaborative Learning of Scattering and Deep Features for SAR Target Recognition with Noisy Labels. (Under review)
 
 The code will be released upon acceptance.
 
