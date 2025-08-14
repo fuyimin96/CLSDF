@@ -1,5 +1,5 @@
 # CLSDF
-Pytorch implementation for Collaborative Learning of Scattering and Deep Features for SAR Target Recognition with Noisy Labels. (Under review)
+Pytorch implementation for CLSDF for noise-robust SAR ATR. (Under review)
 
 The code will be released upon acceptance.
 
