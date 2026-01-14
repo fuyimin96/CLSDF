@@ -23,7 +23,7 @@ To run this code, you'll need the following dependencies:
 - numpy
 
 ## Datasets
-You can download the dataset for [EOC-2](https://drive.google.com/file/d/1ld0TMgkdg2FO5OL_rSIZ4UADS5-JnPEJ/view?usp=sharing) and move them to `./dataset`.
+You can download the dataset for [EOC-2](https://drive.google.com/file/d/1XPu5FURmdkfi1QBSrY98V0piz5K_koB_/view) and move it to `./dataset`.
 
 ## Run The Code
 
