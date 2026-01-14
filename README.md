@@ -23,7 +23,7 @@ To run this code, you'll need the following dependencies:
 - numpy
 
 ## Datasets
-You can download the dataset for [EOC-2](https://github.com/YeRen123455/Infrared-Small-Target-Detection) and move them to `./dataset`.
+You can download the dataset for [EOC-2](https://drive.google.com/file/d/1ld0TMgkdg2FO5OL_rSIZ4UADS5-JnPEJ/view?usp=sharing) and move them to `./dataset`.
 
 ## Run The Code
 
