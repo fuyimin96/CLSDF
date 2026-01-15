@@ -10,7 +10,7 @@
 
 Pytorch implementation for "[**Collaborative Learning of Scattering and Deep Features for SAR Target Recognition with Noisy Labels**](https://arxiv.org/pdf/2508.07656)"
 <p align="center">
-    <img src=./noise_saratr.png width="520">
+    <img src=./noise_saratr.png width="360">
 </p>
 
 ## Requirements
