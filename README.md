@@ -8,7 +8,7 @@
   </p>
   <br>
 
-Pytorch implementation for "[**Collaborative Learning of Scattering and Deep Features for SAR Target Recognition with Noisy Labels**](https://arxiv.org/pdf/2508.07656)"
+Pytorch implementation for "[**Collaborative Learning of Scattering and Deep Features for SAR Target Recognition with Noisy Labels**](https://ieeexplore.ieee.org/document/11355694)"
 <p align="center">
     <img src=./noise_saratr.png width="360">
 </p>
